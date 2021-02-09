@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "child-process": "^1.0.2",
     "simple-git": "^2.34.2"
   }
 }
